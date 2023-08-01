@@ -1,3 +1,5 @@
+![banner](https://github.com/ijbs-dev/Svelte_Project/blob/main/Proj_Web01_Svelte_V004/src/programador-profissional-trabalhando-ate-tarde-no-escritorio-escuro(1).jpg?raw=true)
+
 ### Hi there 👋
 
 <!--
