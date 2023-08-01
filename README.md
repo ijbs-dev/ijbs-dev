@@ -1,5 +1,7 @@
 ![banner](https://github.com/ijbs-dev/Svelte_Project/blob/main/Proj_Web01_Svelte_V004/src/2.jpg?raw=true)
 
+<img align="right" height="590em" src="file:///C:/Users/ISMAEL/Desktop/Frame%206683(1).svg"/>
+
 <h1 align="center">Hi 👋, I'm Dev Ismael Jefte</h1>
 <h3 align="center">Here you can find projects using Javascript, Css, Html, Java, Python, C++, C#, Svelt, Php, Laravel, etc.</h3>
 
