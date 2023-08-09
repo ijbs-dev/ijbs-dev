@@ -2,7 +2,12 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/ijbs-dev/Svelte_Project/60b539b0be62e6553b54dc0f362b2d28b111309f/Proj_Web01_Svelte_V004/src/Catoon(1).svg"/>
 
-<h1 align="center">Hi 👋, I'm Dev Ismael Jefte</h1>
+<h1 align="center">Hi 👋, I'm Dev Ismael Jefte  </a>
+  <a href="https://ijbs-dev.github.io/ijbs-cv/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-left: 10px;">
+    <img src="https://camo.githubusercontent.com/463ec7a6f6f6a77a9cab14b586910fd27a9336f96323e67f9811cdcfd9552717/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f726573756d652e706e67" alt="Curriculo" height="60" width="60" title="Curriculo" />
+   
+  </a></h1>
+
 <h3 align="center">Here you can find projects using Javascript, Css, Html, Java, Python, C++, C#, Svelt, Php, Laravel, etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ijbs-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ijbs-dev" /> </p>
@@ -28,13 +33,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/dev-ismael-jefte-912565282/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael jefte" height="30" width="40" style="margin-right: 10px;" />
-   
-  </a>
-  <a href="https://ijbs-dev.github.io/ijbs-cv/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-left: 10px;">
-    <img src="https://camo.githubusercontent.com/463ec7a6f6f6a77a9cab14b586910fd27a9336f96323e67f9811cdcfd9552717/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f726573756d652e706e67" alt="Curriculo" height="60" width="60" title="Curriculo" />
-   
-  </a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael jefte" height="30" width="40" style="margin-right: 10px;" />  
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
