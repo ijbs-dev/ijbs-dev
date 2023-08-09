@@ -27,13 +27,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/dev-ismael-jefte-912565282/" target="blank">
+  <a href="https://www.linkedin.com/in/dev-ismael-jefte-912565282/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael jefte" height="30" width="40" style="margin-right: 10px;" />
   </a>
-  <a href="https://ijbs-dev.github.io/ijbs-cv/" target="_blank" rel="noreferrer" style="display: inline-block; margin-left: 10px;">
+  <a href="https://ijbs-dev.github.io/ijbs-cv/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-left: 10px;">
     <img src="https://camo.githubusercontent.com/463ec7a6f6f6a77a9cab14b586910fd27a9336f96323e67f9811cdcfd9552717/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f726573756d652e706e67" alt="Curriculo" height="60" width="60" title="Curriculo" />
   </a>
 </p>
+
 
 
  
