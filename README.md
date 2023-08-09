@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ijbs-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ijbs-dev" /> </p>
 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+
 - 🔭 I’m currently working on [SosPet](https://github.com/ijbs-dev/SosPet)
 
 - 🌱 I’m currently learning **Javascript, Python (TensorFlow), Laravel, Java.**
